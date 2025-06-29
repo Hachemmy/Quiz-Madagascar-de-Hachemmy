@@ -68,6 +68,6 @@ button:hover {
 }
 @media(max-width:800px){
   #titre{
-    font-size: 38px;
+    font-size: 30px;
   }
 }
